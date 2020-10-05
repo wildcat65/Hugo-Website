@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanity on Ghostdogs</title>
+    <link>https://ghostdogs.co.uk/tags/sanity/</link>
+    <description>Recent content in Sanity on Ghostdogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Mar 2020 18:01:00 +0000</lastBuildDate><atom:link href="https://ghostdogs.co.uk/tags/sanity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isolation 2.5</title>
+      <link>https://ghostdogs.co.uk/blog/isolation-2-5/</link>
+      <pubDate>Wed, 18 Mar 2020 18:01:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/blog/isolation-2-5/</guid>
+      <description>&lt;p&gt;Shopping list for anyone entering isolation/quarantine&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

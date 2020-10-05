@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Ghostdogs</title>
+    <link>https://ghostdogs.co.uk/other/</link>
+    <description>Recent content in Other on Ghostdogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ghostdogs.co.uk/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gallery One</title>
+      <link>https://ghostdogs.co.uk/other/gallery1/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/other/gallery1/</guid>
+      <description>Gallery One A set of some pictures of our beautiful son.
+                                                </description>
+    </item>
+    
+    <item>
+      <title>Gallery Two</title>
+      <link>https://ghostdogs.co.uk/other/gallery2/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/other/gallery2/</guid>
+      <description>Gallery Two Some more picture of our beautiful boy.
+                                                </description>
+    </item>
+    
+    <item>
+      <title>Our Tech</title>
+      <link>https://ghostdogs.co.uk/other/ourtech/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/other/ourtech/</guid>
+      <description>Our Desk
+  I make no apology for this being a bit technical. I will try and write a preamble to this that explains things more simply for people who are interested in the tools I use.
+The world is electronic whether we like it or not. And as someone who has spent his working life in the information technology world all his working life I have a slightly different approach to computers, tablets and phones than I think the majority of people have.</description>
+    </item>
+    
+  </channel>
+</rss>

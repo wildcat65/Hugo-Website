@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Birthdays on Ghostdogs</title>
+    <link>https://ghostdogs.co.uk/tags/birthdays/</link>
+    <description>Recent content in Birthdays on Ghostdogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Sep 2019 19:23:57 +0000</lastBuildDate><atom:link href="https://ghostdogs.co.uk/tags/birthdays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tams Birthday</title>
+      <link>https://ghostdogs.co.uk/blog/tams-birthday/</link>
+      <pubDate>Tue, 24 Sep 2019 19:23:57 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/blog/tams-birthday/</guid>
+      <description>&lt;p&gt;Its Tams birthday.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Birthdays</title>
+      <link>https://ghostdogs.co.uk/blog/birthdays/</link>
+      <pubDate>Thu, 12 Sep 2019 09:59:55 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/blog/birthdays/</guid>
+      <description>&lt;p&gt;September is a month of birthdays. Bevs on 10th, Mine today 12th, and Tams on 24th. It used to be a fun month, now wrapped in grief.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>In Loving Memory</title>
+      <link>https://ghostdogs.co.uk/blog/in-loving-memory/</link>
+      <pubDate>Mon, 09 Sep 2019 10:22:37 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/blog/in-loving-memory/</guid>
+      <description>&lt;p&gt;Today is an angry day, tomorrow is a sad day. Grief knows how to really punch you in the gut around birthdays.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>September</title>
+      <link>https://ghostdogs.co.uk/blog/september/</link>
+      <pubDate>Sat, 31 Aug 2019 23:20:57 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/blog/september/</guid>
+      <description>&lt;p&gt;September used to be a busy month, now its full of memories.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

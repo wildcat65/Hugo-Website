@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Ghostdogs</title>
+    <link>https://ghostdogs.co.uk/tags/go/</link>
+    <description>Recent content in Go on Ghostdogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Sep 2020 08:39:00 +0000</lastBuildDate><atom:link href="https://ghostdogs.co.uk/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Outline</title>
+      <link>https://ghostdogs.co.uk/gogrief/projectoutline/</link>
+      <pubDate>Tue, 29 Sep 2020 08:39:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/gogrief/projectoutline/</guid>
+      <description>Project outline When NASA sent a man to the moon they did not build a rocket and fire it to the moon on the first attempt. They took steps and worked towards improving every flight and taking it further than the previous flight. Learning as they went along and improving the previous stages. That is what I have decided to do with my little project.
+Outline I want a program that will generate a markdown file for feeding the Hugo webserver.</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://ghostdogs.co.uk/gogrief/goweek2/</link>
+      <pubDate>Mon, 28 Sep 2020 08:39:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/gogrief/goweek2/</guid>
+      <description>Go - Week 2 Day 1 Not much done as Tam refused to go to school and I have had to keep him calm all day. Not an easy day but ideas are formulating in my head for other projects.
+Day 2 All returning to normal. Go a bit of time today and looked at Fyne and played with the examples. For what I need to do it looks like it will do what I want.</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://ghostdogs.co.uk/gogrief/go-week-1/</link>
+      <pubDate>Mon, 21 Sep 2020 08:39:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/gogrief/go-week-1/</guid>
+      <description>&lt;h1 id=&#34;go---week-1&#34;&gt;Go - Week 1&lt;/h1&gt;
+&lt;p&gt;So I have a few web pages bookmarked. I have bought an analogue book and off we go on a journey to flexing my tiny little brain again. Over the past couple of years my brain has taken a beating (as well as my heart) and now I need to get it on line and operating properly.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Starting to Go</title>
+      <link>https://ghostdogs.co.uk/gogrief/start/</link>
+      <pubDate>Sun, 20 Sep 2020 08:39:00 +0000</pubDate>
+      
+      <guid>https://ghostdogs.co.uk/gogrief/start/</guid>
+      <description>&lt;h1 id=&#34;something-new&#34;&gt;Something New&lt;/h1&gt;
+&lt;p&gt;Being a single dad and looking after an autistic boy has a lot of perks and a lot of drawbacks. The major drawback is brain antrophy.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
